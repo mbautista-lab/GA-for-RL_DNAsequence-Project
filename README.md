@@ -1,4 +1,4 @@
-# RL_DNAsequence
+# Genetic Algorithm for RL_DNAsequence
 This repo contains related literature for our work on DNA sequencing using Genetic algorithm 
 
 
